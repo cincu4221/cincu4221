@@ -1,6 +1,11 @@
 ### Hi there 👋
 
 
+![WooJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=cincu4221&show_icons=true&theme=radical)
+
+<a href="https://cincu4221.github.io/" target="_blank"><img src="https://img.shields.io/badge/GithubBlog-skyblue?style=flat&logo=Blogger&logoColor=FFFFFF"/></a>
+
+
 <!--
 **cincu4221/cincu4221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
