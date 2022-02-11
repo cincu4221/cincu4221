@@ -1,4 +1,4 @@
-### Hi there 👋
+### WooJeong's Github Profile
 
 
 ![WooJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=cincu4221&show_icons=true&theme=radical)
