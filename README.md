@@ -1,4 +1,5 @@
 ### Hi there 👋
+<a href="https://cincu4221.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-blue?style=flat&logo=appveyor&logo=42&logoColor=000000"/></a>
 
 <!--
 **cincu4221/cincu4221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
